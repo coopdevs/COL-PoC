@@ -6,7 +6,7 @@ import sys
 
 
 def format_cell(c):
-    if c == '':
+    if not c:
         return ""
     if isinstance(c, (int, float)):
         c = str(int(100 * c)/100.0)

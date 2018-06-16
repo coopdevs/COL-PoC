@@ -34,6 +34,7 @@ CROPS = {
   CU_BLEDES: "Bledes",
   CU_TOMAQUET: "Tomàquet",
   CU_CARBASSA: "Carbassa",
+  "global": "global",
 }
 
 # Chart location
